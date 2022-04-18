@@ -49,8 +49,8 @@ class _MyHomePageState extends State<MyHomePage> {
               "prompt": userPromt,
               "model":
                   "babbage:ft-personal:custom-model-name-2022-04-14-16-34-19",
-              "max_tokens": 16,
-              "temperature": 0.4,
+              "max_tokens": 16,  // answering limit
+              "temperature": 0.4, // how creative to you want it to be.
             }));
 
     var body = jsonDecode(result.body);
