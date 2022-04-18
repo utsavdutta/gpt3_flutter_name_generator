@@ -1,4 +1,4 @@
-# super_baby_name_generator
+# baby_name_generator
 
 A new Flutter project.
 
