@@ -71,7 +71,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("super baby name generator"),
+        title: const Text("baby name generator"),
       ),
       body: SafeArea(
         child: Column(
@@ -105,7 +105,7 @@ class _MyHomePageState extends State<MyHomePage> {
                           controller: myController,
                           decoration: const InputDecoration(
                             border: OutlineInputBorder(),
-                            labelText: 'ask for some super baby names',
+                            labelText: 'ask for some  baby names',
                           ),
                         ),
                       ),
