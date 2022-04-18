@@ -1,6 +1,6 @@
 # baby_name_generator
 
-A new Flutter project.
+uses gpt3 fine tuned on babage engine to generate names for given prompt
 
 ## Getting Started
 
